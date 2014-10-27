@@ -1,0 +1,12 @@
+#payment-form {
+width: 300px;
+margin: 0 auto;
+}
+#payment-form label{
+    display:block;
+    margin: 5px 0 0 0;
+}
+#payment-form button {
+
+    margin-top:5px;
+}
